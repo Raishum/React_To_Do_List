@@ -1,0 +1,37 @@
+.to-do-list{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top:100px ;
+}
+
+.h1{
+  font-size: 4rem;
+}
+
+.button{
+  font-size: 1.7rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transform: background-color 0.5 ease;
+}
+
+.add-button{
+  background-color:aqua;
+}
+
+.button1{
+  padding: 20PX;
+}
+
+.delete-button{
+  margin: 10px;
+}
+
+.Move-button{
+  margin-right: 10px;
+}
+
